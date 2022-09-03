@@ -9,3 +9,20 @@
 #Bracket notation can also be used to create properties(with dot notation)
 
  
+<Text Styling>
+
+"Universal selector" is gonna have the same issue as the HTML elment
+
+"Double colon" is a pseudo element as opposed to a pseudo class
+
+"Margin -> don't put any maring on the top of the bottom"
+
+"aligning elements on the webpage
+and centering them"
+-> margin: 0 auto;
+
+<Navigation>
+-> should trigger another HTML element for you.
+
+<nav>
+<
