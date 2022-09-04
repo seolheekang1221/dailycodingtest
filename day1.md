@@ -24,4 +24,9 @@ and centering them"
 <Navigation>
 -> should trigger another HTML element for you.
 
+<<<<<<< HEAD
 
+=======
+<nav>
+<
+>>>>>>> aec725d371bdabd523a2e909b4d395b33f21f191
